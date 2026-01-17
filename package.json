@@ -1,0 +1,11 @@
+{
+  "name": "nft-mint-tracker-web3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "description": "Beginner-friendly NFT mint tracking project",
+  "author": "Nazrul Islam",
+  "license": "MIT"
+}
